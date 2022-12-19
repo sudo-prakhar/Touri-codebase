@@ -1,0 +1,42 @@
+{
+    "hide-files.files": [
+        ".dart_tool",
+        ".idea",
+        ".vscode",
+        "android",
+        "build",
+        "linux",
+        "README.md",
+        "pubspec.lock",
+        "frontend.iml",
+        ".metadata",
+        ".gitignore",
+        "windows",
+        "web",
+        "macos",
+        "test"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".dart_tool": true,
+        ".idea": true,
+        ".vscode": true,
+        "android": true,
+        "build": true,
+        "linux": true,
+        "README.md": true,
+        "pubspec.lock": true,
+        "frontend.iml": true,
+        ".metadata": true,
+        ".gitignore": true,
+        "windows": true,
+        "web": true,
+        "macos": true,
+        "test": true
+    }
+}
