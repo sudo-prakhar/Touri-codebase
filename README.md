@@ -10,7 +10,7 @@ A flutter project for the tablet attached to the robot. It is only used for audi
 
 THIRD PARTY SERVICES: Agora, Firebase
 
-## Botside core
+## Core
 A python codebase to listen to database events and call callback functions - trigger ROS services, call python scripts etc
 
 THIRD PARTY SERVICES: Firebase
