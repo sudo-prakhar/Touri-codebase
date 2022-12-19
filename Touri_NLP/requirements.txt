@@ -1,0 +1,6 @@
+firebase_admin==6.0.1
+openai==0.25.0
+pvporcupine==2.1.4
+pvrecorder==1.1.1
+PyAudio==0.2.12
+
